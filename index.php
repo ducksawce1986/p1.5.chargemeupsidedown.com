@@ -27,13 +27,13 @@
 			<li><a href="http://www.celticsblog.com">My Celtics!</a>
 			<li><a href="https://www.facebook.com/zach.postle.98">My Facebook!</a>
 		</ul>
-		<h1>This may just be practice, but it's still me!</h1>
-			<p>So why am I here then??</p>
-			<p>To show you stuff like who my favorite athlete is:</p>
+		<h1>Here's a little starter webpage I've created.</h1>
+			<p>So why are you here today?</p>
+		<h2>So that I can show you stuff like who my favorite athlete is:</h2>
 			<!-- Main photo of the webpage -->
 			<img src='http://www.celticstown.com/wp-content/uploads/2012/08/
 			rajonrondo1.jpg'>
-		<h3>But what's your <b>NAME</b>??</h3>
+		<h3>And also details of little importance like..ohh...what my <b>NAME</b> is...</h3>
 			<p>...Oh yes, of course, my name...I'm <b>Zach Postle</b></p>
 		<h2>Guess what...</h2>
 		<!-- Here's a brief little bio -->
@@ -48,7 +48,9 @@
 			   up this version control stuff was (<b>no exaggeration</b>) one of <b>
 			   THE</b> most confusing things I've ever attempted to learn.</p>
 
-		<h3>No worries though. I understand it now though. Otherwise, you wouldn't 
-			be seeing this wonderful little bio..</h3>  
+		<h3>No worries though. I understand it now though. Otherwise, you wouldn't be seeing this wonderful little bio..</h3>  
+			<p>I wrote my HTML and CSS with Sublime Text 2 Editor. So far I'm enjoying using its feautures. I can't wait to start
+			learning how to create some nice applications for these pages!</p>
+		<h5>(Though shhhhh...don't tell anyone, but I think I'll have to practice injecting more style into my page! Not bad for a simple first assignment though, I must say)
 	</body>
 </html>
