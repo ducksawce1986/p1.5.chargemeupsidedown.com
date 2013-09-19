@@ -41,6 +41,6 @@
 		<h3>No worries though. I understand it now though. Otherwise, you wouldn't be seeing this wonderful little bio..</h3>  
 			<p>I wrote my HTML and CSS with Sublime Text 2 Editor. So far I'm enjoying using its feautures. I can't wait to start
 			learning how to create some nice applications for these pages!</p>
-		<h5>(Though shhhhh...don't tell anyone, but I think I'll have to practice injecting more style into my page! Not bad for a simple first assignment though, I must say)</h5>
+		<h5>(Though shhhhh..don't tell anyone, but I think I'll have to practice injecting more style into my page! Not bad for a simple first assignment though, I must say)</h5>
 	</body>
 </html>
